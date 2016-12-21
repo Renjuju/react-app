@@ -38,3 +38,9 @@ captures/
 
 # Keystore files
 *.jks
+
+# node modules
+node_modules
+
+#distribution files
+dist
